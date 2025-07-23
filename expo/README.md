@@ -1,5 +1,7 @@
-Simple app to validate development and deployment of an Expo app.
+Overview:
+---------
 
+Simple app to validate development and deployment of an Expo app.
 
 Setup:
 ------
