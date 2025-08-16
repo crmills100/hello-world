@@ -8,12 +8,12 @@ Setup:
 
 1. Download Ubuntu - complete
 
-# Setup VM - complete
-2.1. Install OS
-2.2 Setup GIT and github
-2.3 Enable firewall (sudo ufw allow 8081/tcp)
+2. Setup VM - complete
+   1. Install OS
+   2. Setup GIT and github
+   3. Enable firewall (sudo ufw allow 8081/tcp)
 3. Create Expo app: Create your first app - Expo Documentation
-3.1. Setup Expo dev environment - complete
+   1. Setup Expo dev environment - complete
 
 
 
