@@ -8,7 +8,7 @@ Setup:
 
 1. Download Ubuntu - complete
 
-2. Setup VM - complete
+# Setup VM - complete
 2.1. Install OS
 2.2 Setup GIT and github
 2.3 Enable firewall (sudo ufw allow 8081/tcp)
